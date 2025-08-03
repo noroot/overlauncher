@@ -63,4 +63,4 @@ The app may require accessibility permissions on first run to register global ho
 ![Basic math](overlauncher-calc.jpeg)
 ![About window](overlauncher-about.jpeg)
 
-<video src="https://github.com/noroot/overlauncher/raw/refs/heads/master/overlauncher-demo.mov" width="320" height="240" controls></video>
+[![Watch the video](https://img.youtube.com/vi/qr46OQbUD20/hqdefault.jpg)](https://www.youtube.com/embed/qr46OQbUD20)
