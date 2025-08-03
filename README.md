@@ -56,3 +56,10 @@ The app runs as a background application (LSUIElement = true) and doesn't appear
 ## Permissions
 
 The app may require accessibility permissions on first run to register global hotkeys. macOS will prompt for these permissions automatically.
+
+
+## Screenshots
+![Main interface](overlauncher-search-example.jpeg)
+![Basic math](overlauncher-calc.jpeg)
+![About window](overlauncher-about.jpeg)
+[Video](overlauncher-demo.mov)
