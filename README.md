@@ -6,6 +6,7 @@ A native macOS application launcher that provides a fast, searchable interface f
 
 ## Features
 
+- No Spotlight index required to just launch apps
 - **Fast Search**: Real-time filtering of applications as you type
 - **Global Hotkey**: Activate with Cmd+Space (customizable)
 - **Native Performance**: Built with Swift and SwiftUI for optimal macOS integration
